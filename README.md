@@ -16,7 +16,7 @@ Live demo [_here_](https://). <!-- If you have the project hosted somewhere, inc
 
 ## Generated HTML Screenshot
 
-![GeneratedHTLM.pic](https://github.com/ElyCano/Team_Profile_Generator/blob/main/images/generatedHTML.jpg)
+![GeneratedHTLM.pic](https://github.com/ElyCano/Team_Profile_Generator/blob/main/images/generatedHTML.1.jpg)
 
 ## Desktop screenshot
 
