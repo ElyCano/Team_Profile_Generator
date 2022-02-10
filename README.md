@@ -10,9 +10,13 @@ A Node.js command-line application that takes in information about employees on 
 
 Live demo [_here_](https://). <!-- If you have the project hosted somewhere, include the link here. -->
 
+## Screenshots of data entry
+
+![](https://github.com/ElyCano/Team_Profile_Generator/blob/main/images/Entries.pic.jpg)
+
 ## Screenshots of generated HTML
 
-![GeneratedHTLM.pic]()
+![GeneratedHTLM.pic](https://github.com/ElyCano/Team_Profile_Generator/blob/main/images/generatedHTML.jpg)
 
 ## Starting Application
 
@@ -52,7 +56,7 @@ This application uses Jest for running the unit tests. The application's tests w
 
 npm run test
 
-![test.pic]()
+![](https://github.com/ElyCano/Team_Profile_Generator/blob/main/images/test.pic.jpg)
 
 ## Contact
 
