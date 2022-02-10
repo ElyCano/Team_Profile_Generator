@@ -10,13 +10,17 @@ A Node.js command-line application that takes in information about employees on 
 
 Live demo [_here_](https://). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Screenshots of data entry
+## Data entry screenshot
 
 ![](https://github.com/ElyCano/Team_Profile_Generator/blob/main/images/Entries.pic.jpg)
 
-## Screenshots of generated HTML
+## Generated HTML Screenshot
 
 ![GeneratedHTLM.pic](https://github.com/ElyCano/Team_Profile_Generator/blob/main/images/generatedHTML.jpg)
+
+## Desktop screenshot
+
+![DesktopHTLM.pic](https://github.com/ElyCano/Team_Profile_Generator/blob/main/images/generatedHTML.jpg)
 
 ## Starting Application
 
