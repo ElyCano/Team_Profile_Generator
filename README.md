@@ -8,7 +8,7 @@ A Node.js command-line application that takes in information about employees on 
 
 ## Demo
 
-Live demo [_here_](https://). <!-- If you have the project hosted somewhere, include the link here. -->
+Live demo [_Click Here_](https://watch.screencastify.com/v/izGJGAVeia1afwaAl6jf). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Data entry screenshot
 
